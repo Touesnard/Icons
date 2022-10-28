@@ -1,0 +1,38 @@
+{
+	"name": "Microsoft Power Platform",
+	"description": "This theme includes element styles with icons for each Power Platform service, based upon the Microsoft Power Platform icon set (https://learn.microsoft.com/en-us/power-platform/guidance/icons)",
+	"elements": [
+		{
+			"tag": "AI Builder",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/AIBuilder.png"
+		},
+		{
+			"tag": "Dataverse",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/Dataverse.png"
+		},
+		{
+			"tag": "Power Apps",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/PowerApps.png"
+		},
+		{
+			"tag": "Power Automate",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/PowerAutomate.png"
+		},
+		{
+			"tag": "Power BI",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/PowerBI.png"
+		},
+		{
+			"tag": "Power Pages",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/PowerPages.png"
+		},
+		{
+			"tag": "Power Platform",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/PowerPlatform.png"
+		},
+		{
+			"tag": "Power Virtual Agents",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Power%20Platform/PowerVirtualAgents.png"
+		}
+	]
+}
