@@ -1,0 +1,10 @@
+{
+	"name": "Microsoft .NET",
+	"description": "This theme includes element styles with .NET icons.",
+	"elements": [
+		{
+			"tag": "Blazor",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/DotNet/Blazor.png"
+		}
+	]
+}
