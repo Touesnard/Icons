@@ -1,0 +1,10 @@
+{
+	"name": "Drupal",
+	"description": "This theme includes element styles with Drupal icons.",
+	"elements": [
+		{
+			"tag": "Blazor",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/Drupal/DrupalDrop.png"
+		}
+	]
+}
