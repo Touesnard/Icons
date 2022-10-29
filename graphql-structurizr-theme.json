@@ -3,8 +3,8 @@
 	"description": "This theme includes element styles with GraphQL icons.",
 	"elements": [
 		{
-			"tag": "Blazor",
-			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/DotNet/GraphQL.png"
+			"tag": "GraphQL",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/GraphQL/GraphQL.png"
 		}
 	]
 }
