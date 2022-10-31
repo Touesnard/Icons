@@ -5,6 +5,10 @@
 		{
 			"tag": "Blazor",
 			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/DotNet/Blazor.png"
+		},
+		{
+			"tag": ".NET",
+			"icon": "https://raw.githubusercontent.com/Touesnard/Icons/main/Icons/DotNet/DotNet.png"
 		}
 	]
 }
